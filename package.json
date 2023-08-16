@@ -1,0 +1,14 @@
+{
+  "name": "metamaskbalancetracker",
+  "version": "1.0.0",
+  "description": "this app tracks your metamask portfolio and helps you visualize the growth of your wealth over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
